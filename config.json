@@ -1,0 +1,7 @@
+{
+    "output_files": [
+        "RCSB_RNA_Binding_Protein.txt",
+        "RCSB_DNA_Binding_Protein.txt"
+    ],
+    "combined_output_file": "RCSB_combined_PDB_IDs.txt"
+}
